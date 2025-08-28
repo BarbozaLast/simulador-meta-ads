@@ -1,3 +1,6 @@
 git init
 git add .
 git commit -m "Simulador Meta Ads pronto para deploy"
+git add .
+git commit -m "Add Netlify deployment config"
+git push
